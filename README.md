@@ -1,5 +1,8 @@
 # exchange-english
+TG： https://t.me/isdapp
+
 exchange-english
+
 全新英文国外交易所，区块链交易所，币币交易，上链，ETH，BTC等全自动到账
 
 功能技术列表：
