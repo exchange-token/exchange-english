@@ -1,20 +1,7 @@
 # exchange-english
 TG： https://t.me/isdapp
 
-exchange-english
-
-全新英文国外交易所，区块链交易所，币币交易，上链，ETH，BTC等全自动到账
-
-## Screenshots
-![1](01.png)
-![2](02.png)
-![3](03.png)
-![4](04.png)
-![5](05.jpg)
-![6](06.jpg)
-![7](07.jpg)
-![8](08.png)
-![9](09.png)
+# 全新英文国外交易所，区块链交易所，币币交易，上链，ETH，BTC等全自动到账
 
 功能技术列表：
 
@@ -49,6 +36,19 @@ exchange-english
 15：曲线自动产生，K线清晰易懂。
 
 16：运营完美版。
+
+## Screenshots
+![1](01.png)
+![2](02.png)
+![3](03.png)
+![4](04.png)
+![5](05.jpg)
+![6](06.jpg)
+![7](07.jpg)
+![8](08.png)
+![9](09.png)
+
+
 
 
 安全的交易所，安全防御如下：
